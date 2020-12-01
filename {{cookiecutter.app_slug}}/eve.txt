@@ -1,3 +1,3 @@
 HERE:  [{{cookiecutter.app_slug}}]
-THERE: [{{cookicutter["app_name"]}}]
-WHERE: [{{cookicutter["foo.bar"]}}]
+THERE: [{{cookiecutter["app_name"]}}]
+WHERE: [{{cookiecutter["foo.bar"]}}]
