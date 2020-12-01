@@ -1,5 +1,6 @@
 {
     "app_name": "Flask Skeleton",
+    "foo.bar": "Alice & Bob",
     "app_slug": "{{ cookiecutter.app_name.lower()|replace(' ', '_')|replace('-', '_') }}",
     "_copy_without_render": [
         "*.html"
